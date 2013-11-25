@@ -6,7 +6,7 @@ Twitter [announced recently a new feature to create custom timelines](https://bl
 
 ## Twitter Customer Timelines meet hashtags
 
-What if every time you would use a hashtag, it would automatically add your tweet to a collection with the name of the hashtag? (If it's the first time that you use that hashtag, it will first create a new custom timeline for you.)
+What if every time you used a hashtag, it would automatically add your tweet to a collection with the name of the hashtag? (If it's the first time that you use that hashtag, it will first create a new custom timeline for you.)
 
 This has two direct benefits:
 - You can easily look back to all your tweets about a given conference or on a given topic (e.g. all my tweets with #sxsw or with #startup)
